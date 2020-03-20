@@ -1,0 +1,10 @@
+package com.zyq.mall.consts;
+
+/**
+ * Created by zhangyiqi
+ */
+public class MallConst {
+	public static final String CURRENT_USER = "currentUser";
+
+	public static final Integer ROOT_PARENT_ID = 0;
+}
