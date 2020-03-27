@@ -23,7 +23,7 @@ import static com.zyq.mall.enums.ProductStatusEnum.*;
 import static com.zyq.mall.enums.ResponseEnum.PRODUCT_OFF_SALE_OR_DELETE;
 
 /**
- * Created by 廖师兄
+ * Created by zhangyiqi
  */
 @Service
 @Slf4j

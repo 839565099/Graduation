@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by zhangyiqi
+ * Created by zhangyiqi1
  */
 @Component
 @ConfigurationProperties(prefix = "alipay")

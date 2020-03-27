@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 import static com.zyq.mall.consts.MallConst.ROOT_PARENT_ID;
 
 /**
- * Created by 廖师兄
+ * Created by zhangyiqi
  */
 @Service
 public class CategoryServiceImpl implements ICategoryService {

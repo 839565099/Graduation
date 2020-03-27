@@ -16,7 +16,7 @@ import javax.jms.TextMessage;
 /**
  * 关于PayInfo，正确姿势：pay项目提供client.jar, mall项目引入jar包
  * 《SpringCloud微服务实战》
- * Created by 廖师兄
+ * Created by zhangyiqi
  */
 @Component
 //@RabbitListener(queues = "payNotify")

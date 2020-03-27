@@ -5,7 +5,7 @@ import com.zyq.mall.vo.OrderVo;
 import com.zyq.mall.vo.ResponseVo;
 
 /**
- * Created by 廖师兄
+ * Created by zhangyiqi
  */
 public interface IOrderService {
 
