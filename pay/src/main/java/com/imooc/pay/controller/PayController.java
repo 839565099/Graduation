@@ -50,7 +50,6 @@ public class PayController {
 			payVo.setBody(response.getBody());
 			return  ResponseVo.success(payVo);
 		}
-
 		throw new RuntimeException("暂不支持的支付类型");
 	}
 
