@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81407c26-f5ac-4710-bda1-d8ea71e07522" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mall/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pay/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pay/src/main/resources/application-prod.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dscsqo7DoEOdx0bmNzhIRfHNG8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallApplication">
+    <configuration name="MallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zyq.mall.MallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.pay.PayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81407c26-f5ac-4710-bda1-d8ea71e07522" name="Default Changelist" comment="" />
+      <created>1593217450513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593217450513</updated>
+      <workItem from="1593217451692" duration="115000" />
+      <workItem from="1594618487463" duration="38000" />
+      <workItem from="1594618632638" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2213" y="194" width="598" height="548" key="find.popup" timestamp="1593217557982">
+      <screen x="1792" y="-812" width="1440" height="2560" />
+    </state>
+    <state x="2213" y="194" width="598" height="548" key="find.popup/1792.-812.1440.2560/0.0.1792.1120@1792.-812.1440.2560" timestamp="1593217557982" />
+  </component>
+</project>
